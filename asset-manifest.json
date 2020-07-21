@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokemonProject/static/css/main.27fa993c.chunk.css",
+    "main.js": "/pokemonProject/static/js/main.f3234bc4.chunk.js",
+    "main.js.map": "/pokemonProject/static/js/main.f3234bc4.chunk.js.map",
+    "runtime-main.js": "/pokemonProject/static/js/runtime-main.57eb0f75.js",
+    "runtime-main.js.map": "/pokemonProject/static/js/runtime-main.57eb0f75.js.map",
+    "static/js/2.88fe8b60.chunk.js": "/pokemonProject/static/js/2.88fe8b60.chunk.js",
+    "static/js/2.88fe8b60.chunk.js.map": "/pokemonProject/static/js/2.88fe8b60.chunk.js.map",
+    "index.html": "/pokemonProject/index.html",
+    "precache-manifest.fc829871938a6feef567b8fe6ec8f481.js": "/pokemonProject/precache-manifest.fc829871938a6feef567b8fe6ec8f481.js",
+    "service-worker.js": "/pokemonProject/service-worker.js",
+    "static/css/main.27fa993c.chunk.css.map": "/pokemonProject/static/css/main.27fa993c.chunk.css.map",
+    "static/js/2.88fe8b60.chunk.js.LICENSE.txt": "/pokemonProject/static/js/2.88fe8b60.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokemonProject/static/media/background.fb3bdf5b.png",
+    "static/media/logo.png": "/pokemonProject/static/media/logo.55eae3f2.png",
+    "static/media/spinner.gif": "/pokemonProject/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57eb0f75.js",
+    "static/js/2.88fe8b60.chunk.js",
+    "static/css/main.27fa993c.chunk.css",
+    "static/js/main.f3234bc4.chunk.js"
+  ]
+}
